@@ -44,8 +44,9 @@ vibe:     Turning ideas into reality, one commit at a time ✨
 ## 🌺 What I'm Currently Working On
  
 - 🛠️ &nbsp;Building **Rotten Bananas** — a movie rating & recommendation platform (full-stack)
+- 💰 &nbsp;Building **Procurement** — (full-stack)
 - 🛒 &nbsp;Building an **e-commerce platform** (full-stack)
-- 🌱 &nbsp;Currently learning **TypeScript, Next.js & Docker**
+- 🌱 &nbsp;Currently learning **TypeScript, Next.js, Vue.js & Docker**
 - 🎨 &nbsp;Exploring **3D modeling** and improving **UX/UI** design skills
 - ⚡ &nbsp;Fun fact: I debug with `console.log` 😅
 ---
